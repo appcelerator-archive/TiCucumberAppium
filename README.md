@@ -1,4 +1,4 @@
-# TICucumberAppium
+# TiCucumberAppium
 
 A Cucumber and Appium collaboration to run automated tests for Titanium applications. Originally adapted from GitHub user Shashikant86's code [here](https://github.com/Shashikant86/cucumber-appium).
 
