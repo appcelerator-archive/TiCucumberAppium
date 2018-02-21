@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "description": "A Cucumber and Appium collaboration to run automated tests for Titanium applications.",
+  "dependencies": {
+    "appium": "*",
+    "titanium": "^5.0.14",
+    "wd": "^0.2.19"
+  }
+}
